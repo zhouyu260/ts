@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhouyu260/ts/issues"
   },
-  "homepage": "https://github.com/zhouyu260/ts#readme"
+  "homepage": "https://github.com/zhouyu260/ts#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.1.3"
+  }
 }
